@@ -1,0 +1,12 @@
+react router
+contest page
+add participants
+start contest
+end contest
+
+
+cast vote
+
+result page
+declare votes for each participant
+winner declare
